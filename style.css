@@ -1,0 +1,79 @@
+.boxa{
+    background-color: rgb(204, 151, 247);
+    height: 1000px;
+    width: 210px;
+    margin-top: -20px;
+    margin-left: 1080px;
+
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -1210px;
+
+}
+
+.boxb{
+    background-color: rgb(204, 151, 247);
+    height: 130px;
+    width: 2000px;
+    margin-top: -850px;
+    
+    
+    
+
+}
+.lingkaran{
+    width: 90px;
+    height: 80px;
+    margin-top: -830px;
+    margin-left: -140px;
+    background-color: #fff;
+    border-radius: 100%;
+
+}
+
+.c{
+    background-color: rgb(206, 203, 203);
+    height: 250px;
+    width: 450px;
+    margin-left: -1830px;
+    margin-top: -350px;
+    border-radius: 10px;
+}
+.boxd{
+    background-color: rgb(206, 203, 203);
+    height: 250px;
+    width: 450px;
+    margin-left: 75px;
+    margin-top: -350px;
+    border-radius: 10px;
+}
+.boxe{
+    background-color: rgb(206, 203, 203);
+    height: 250px;
+    width: 450px;
+    margin-left: 75px;
+    margin-top: -350px;
+    border-radius: 10px;
+}
+.boxf{
+    background-color: rgb(255, 168, 6);
+    margin-left: -1500px;
+    margin-top: 450px;
+    border-radius: 10px;
+    height: 400px;
+    width: 975px;
+
+}
+.boxg{
+    background-color: rgb(6, 155, 248);
+    border-radius: 10px;
+    height: 400px;
+    width: 450px;
+    margin-left: 75px;
+    margin-top: 450px;
+}
+
